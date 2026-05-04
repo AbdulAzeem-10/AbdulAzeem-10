@@ -18,7 +18,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: abdulazeem10-codearcade
+          user: AbdulAzeem-10
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
