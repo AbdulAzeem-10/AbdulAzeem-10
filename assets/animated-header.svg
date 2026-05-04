@@ -114,7 +114,7 @@
   </g>
   
   <!-- Pixel Character (Developer) - Centered and Fully Visible -->
-  <g class="character" transform="translate(462, 140)">
+  <g class="character" transform="translate(465, 120)">
     <!-- Head -->
     <rect x="0" y="0" width="10" height="10" fill="#f4a460"/>
     <rect x="10" y="0" width="10" height="10" fill="#f4a460"/>
@@ -136,10 +136,10 @@
     <rect x="-10" y="13" width="10" height="7" fill="#f4a460"/>
     <rect x="30" y="13" width="10" height="7" fill="#f4a460"/>
     <!-- Legs -->
-    <rect x="5" y="30" width="8" height="10" fill="#2c5282"/>
-    <rect x="17" y="30" width="8" height="10" fill="#2c5282"/>
-    <rect x="5" y="40" width="8" height="10" fill="#2c5282"/>
-    <rect x="17" y="40" width="8" height="10" fill="#2c5282"/>
+    <rect x="5" y="30" width="8" height="8" fill="#2c5282"/>
+    <rect x="17" y="30" width="8" height="8" fill="#2c5282"/>
+    <rect x="5" y="38" width="8" height="8" fill="#2c5282"/>
+    <rect x="17" y="38" width="8" height="8" fill="#2c5282"/>
   </g>
   
   <!-- Animated Robot Bot - Balanced position -->
@@ -184,13 +184,13 @@
   </g>
   
   <!-- Ground Line -->
-  <line x1="0" y1="270" x2="1000" y2="270" stroke="#4a5568" stroke-width="2"/>
+  <line x1="0" y1="255" x2="1000" y2="255" stroke="#4a5568" stroke-width="2"/>
   
   <!-- Text - Centered -->
-  <text x="500" y="235" font-family="'Courier New', monospace" font-size="32" font-weight="bold" fill="#00f700" text-anchor="middle">
+  <text x="500" y="220" font-family="'Courier New', monospace" font-size="32" font-weight="bold" fill="#00f700" text-anchor="middle">
     ABDUL AZEEM
   </text>
-  <text x="500" y="260" font-family="'Courier New', monospace" font-size="18" fill="#ffffff" text-anchor="middle">
+  <text x="500" y="245" font-family="'Courier New', monospace" font-size="18" fill="#ffffff" text-anchor="middle">
     Full-Stack Developer | Building the Future
   </text>
 </svg>
