@@ -1,64 +1,209 @@
-<h1 align="center">Hi 👋, I'm Abdul Azeem</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> ABDUL AZEEM
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Co-Founder+%40+BlancosHQ+%F0%9F%92%BC;MERN+Stack+Enthusiast+%F0%9F%92%BB;Building+What+Others+Imagine+%E2%9C%A8)](https://git.io/typing-svg)
+
+```ascii
+┌─────────────────────────────────────────────────────────────────────┐
+│  > system.status                                                     │
+│  ✓ Location: Peshawar, Pakistan                                     │
+│  ✓ Role: Co-Founder & Full-Stack Developer @ BlancosHQ              │
+│  ✓ Education: BS Computer Science @ FAST-NUCES                      │
+│  ✓ Mission: Transforming Ideas into Digital Reality                 │
+│  ✓ Stack: MERN | TypeScript | PostgreSQL | React Native             │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🎯 CURRENT MISSION
+
+```javascript
+const abdulAzeem = {
+    location: "Peshawar, Pakistan 🇵🇰",
+    company: "BlancosHQ",
+    role: "Co-Founder & Full-Stack Developer",
+    education: "FAST-NUCES",
+    currentFocus: ["Backend Architecture", "MERN Stack", "Client Solutions"],
+    techStack: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+        backend: ["Node.js", "Express", "PostgreSQL", "Prisma ORM"],
+        mobile: ["React Native"],
+        tools: ["Git", "Linux", "Railway", "Render"],
+        learning: ["Advanced Backend Patterns", "System Design"]
+    },
+    motto: "We build what others imagine ✨"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🔥 STREAK STATS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulazeem10-codearcade&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulazeem10-codearcade&theme=chartreuse-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak Stats" />
 </p>
 
----
+## 📊 SYSTEM ANALYTICS
 
-### 🚀 About Me
-- 🌱 Currently learning **MERN Stack**
-- 💬 Ask me about **HTML, CSS, JavaScript, MongoDB, React, Node.js, Express**
-- 📫 Reach me at **abdulazeemjd@gmail.com**
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulazeem10-codearcade&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazeem10-codearcade&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F700&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulazeem10-codearcade&theme=chartreuse_dark" alt="Profile Details" />
+</p>
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/abdul-azeem-a253b92a3" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulazeem10-codearcade&theme=chartreuse_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulazeem10-codearcade&theme=chartreuse_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulazeem10-codearcade&theme=chartreuse_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulazeem10-codearcade&theme=chartreuse_dark" />
+</p>
+
+## 🏆 ACHIEVEMENT UNLOCKED
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulazeem10-codearcade&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulazeem10-codearcade&bg_color=0d1117&color=00f700&line=00f700&point=00ff00&area=true&hide_border=true" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💻 TECH ARSENAL
+
+```text
+┌─────────── FRONTEND ───────────┐  ┌─────────── BACKEND ────────────┐
+│ React.js        ████████░ 90%  │  │ Node.js         ████████░ 85%  │
+│ Next.js         ███████░░ 80%  │  │ Express.js      ████████░ 85%  │
+│ TypeScript      ████████░ 85%  │  │ PostgreSQL      ███████░░ 75%  │
+│ Tailwind CSS    █████████ 95%  │  │ MongoDB         ████████░ 80%  │
+│ JavaScript      █████████ 95%  │  │ Prisma ORM      ███████░░ 70%  │
+└────────────────────────────────┘  └────────────────────────────────┘
+
+┌──────────── MOBILE ────────────┐  ┌───────── TOOLS & OTHER ────────┐
+│ React Native    ███████░░ 75%  │  │ Git             █████████ 90%  │
+│ Three.js        ██████░░░ 65%  │  │ Linux           ████████░ 80%  │
+│ WebXR/AR        ██████░░░ 60%  │  │ Python          ███████░░ 75%  │
+└────────────────────────────────┘  │ C++             ███████░░ 70%  │
+                                     └────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,linux,python,cpp,vscode,figma,threejs" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 CODING PROFILES
+
+<p align="center">
+  <a href="https://leetcode.com/u/abdulazeem_10/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.hackerrank.com/abdulazeemjd" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35" />
-  </a>
-  <a href="https://leetcode.com/u/abdulazeem_10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" />
+  <a href="https://www.hackerrank.com/abdulazeemjd">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
 </p>
 
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-### 📊 GitHub Stats
+### 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulazeem10-codearcade&show_icons=true&cache_seconds=86400" />
+  <img src="https://leetcard.jacoblin.cool/abdulazeem_10?theme=dark&font=Ubuntu&ext=heatmap" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 CONNECT WITH ME
+
+<p align="center">
+  <a href="mailto:abdulazeemjd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdul-azeem-a253b92a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abdulazeem10-codearcade">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:hqblancos@gmail.com">
+    <img src="https://img.shields.io/badge/BlancosHQ-00F700?style=for-the-badge&logo=minutemailer&logoColor=black" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazeem10-codearcade&layout=compact&langs_count=8" />
+  <img src="https://komarev.com/ghpvc/?username=abdulazeem10-codearcade&label=PROFILE+VIEWS&color=00f700&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/abdulazeem10-codearcade?label=FOLLOWERS&style=for-the-badge&color=00f700&labelColor=0d1117" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulazeem10-codearcade" />
+  <img src="https://raw.githubusercontent.com/abdulazeem10-codearcade/abdulazeem10-codearcade/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 BLANCOSHQ
+
+```bash
+$ cat blancoshq.info
+────────────────────────────────────────────────
+🏢 Company: BlancosHQ
+🌐 Website: blancoshq.com
+📧 Email: hqblancos@gmail.com
+📱 Phone: +92 318 9177303
+💡 Tagline: "We build what others imagine"
+────────────────────────────────────────────────
+Services:
+  ✓ Web Development (React, Next.js, Node.js)
+  ✓ Mobile Development (React Native)
+  ✓ Backend Architecture (PostgreSQL, Prisma)
+  ✓ AR/VR Solutions (Three.js, WebXR)
+────────────────────────────────────────────────
+Team:
+  • Abdul Azeem - Co-Founder & Full-Stack Dev
+  • Syed Khadeen - Co-Founder & Backend Architect
+  • Ikrama Shah - Co-Founder & AR/VR Specialist
+────────────────────────────────────────────────
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📝 RECENT ACTIVITY
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 💚 Show Some Love
+
+<p align="center">
+  <a href="https://github.com/abdulazeem10-codearcade?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-00F700?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  "Code is like humor. When you have to explain it,          ║
+║   it's bad." – Cory House                                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks+For+Visiting!&fontSize=40&fontColor=fff&animation=twinkling" />
+
+</div>
