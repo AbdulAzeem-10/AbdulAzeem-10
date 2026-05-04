@@ -44,11 +44,11 @@ const abdulAzeem = {
     education: "FAST-NUCES",
     currentFocus: ["Backend Architecture", "MERN Stack", "Client Solutions"],
     techStack: {
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-        backend: ["Node.js", "Express", "PostgreSQL", "Prisma ORM"],
+        frontend: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
+        backend: ["Node.js", "Express.js", "NestJS", "MongoDB"],
         mobile: ["React Native"],
         tools: ["Git", "Linux", "Railway", "Render"],
-        learning: ["Advanced Backend Patterns", "System Design"]
+        learning: ["Next.js", "PostgreSQL", "Advanced Backend Patterns", "System Design"]
     },
     motto: "We build what others imagine ✨"
 };
@@ -100,10 +100,10 @@ const abdulAzeem = {
 ```text
 ┌─────────── FRONTEND ───────────┐  ┌─────────── BACKEND ────────────┐
 │ React.js        ████████░ 90%  │  │ Node.js         ████████░ 85%  │
-│ Next.js         ███████░░ 80%  │  │ Express.js      ████████░ 85%  │
-│ TypeScript      ████████░ 85%  │  │ PostgreSQL      ███████░░ 75%  │
-│ Tailwind CSS    █████████ 95%  │  │ MongoDB         ████████░ 80%  │
-│ JavaScript      █████████ 95%  │  │ Prisma ORM      ███████░░ 70%  │
+│ TypeScript      ████████░ 85%  │  │ Express.js      ████████░ 85%  │
+│ Tailwind CSS    █████████ 95%  │  │ NestJS          ███████░░ 75%  │
+│ JavaScript      █████████ 95%  │  │ MongoDB         ████████░ 85%  │
+│ HTML/CSS        █████████ 95%  │  │ REST APIs       ████████░ 80%  │
 └────────────────────────────────┘  └────────────────────────────────┘
 
 ┌──────────── MOBILE ────────────┐  ┌───────── TOOLS & OTHER ────────┐
@@ -112,10 +112,17 @@ const abdulAzeem = {
 │ WebXR/AR        ██████░░░ 60%  │  │ Python          ███████░░ 75%  │
 └────────────────────────────────┘  │ C++             ███████░░ 70%  │
                                      └────────────────────────────────┘
+
+┌────────── LEARNING ────────────┐
+│ Next.js         ██████░░░ 60%  │
+│ PostgreSQL      █████░░░░ 50%  │
+│ Prisma ORM      █████░░░░ 50%  │
+│ System Design   ██████░░░ 55%  │
+└────────────────────────────────┘
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,linux,python,cpp,vscode,figma,threejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nestjs,mongodb,tailwind,git,github,linux,python,cpp,vscode,figma,threejs" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -195,9 +202,9 @@ $ cat blancoshq.info
 💡 Tagline: "We build what others imagine"
 ────────────────────────────────────────────────
 Services:
-  ✓ Web Development (React, Next.js, Node.js)
+  ✓ Web Development (React, TypeScript, Node.js)
   ✓ Mobile Development (React Native)
-  ✓ Backend Architecture (PostgreSQL, Prisma)
+  ✓ Backend Architecture (Express.js, NestJS, MongoDB)
   ✓ AR/VR Solutions (Three.js, WebXR)
 ────────────────────────────────────────────────
 Team:
@@ -253,10 +260,10 @@ Team:
 - 🌐 **Client Web Applications** - Full-stack MERN solutions
 - 📱 **Mobile Apps** - React Native cross-platform applications
 - 🎨 **AR/VR Experiences** - Three.js and WebXR implementations
-- 🔧 **Backend Systems** - Scalable Node.js + PostgreSQL architectures
+- 🔧 **Backend Systems** - Scalable Node.js + Express.js + NestJS + MongoDB architectures
 
 ### 🎯 Personal Projects
-- 💻 **Portfolio Website** - Next.js + Tailwind CSS
+- 💻 **Portfolio Website** - React + TypeScript + Tailwind CSS
 - 🤖 **Automation Tools** - Python scripts for productivity
 - 📊 **Data Visualization** - Interactive dashboards
 - 🎮 **Game Development** - Experimental projects
