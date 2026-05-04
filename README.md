@@ -148,9 +148,21 @@ const abdulAzeem = {
 
 ## 🐍 CONTRIBUTION GRAPH
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulazeem10-codearcade/abdulazeem10-codearcade/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulazeem10-codearcade/abdulazeem10-codearcade/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulazeem10-codearcade/abdulazeem10-codearcade/output/github-contribution-grid-snake.svg">
+</picture>
+
+<details>
+<summary>🎨 3D Contribution Graph</summary>
+<br>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulazeem10-codearcade/abdulazeem10-codearcade/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -183,7 +195,56 @@ Team:
 ## 📝 RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
+1. 🎯 Pushed code to [repository-name]
+2. ⭐ Starred [interesting-repo]
+3. 🔀 Merged PR in [project-name]
+4. 💬 Commented on issue in [repo-name]
+5. 🚀 Released new version of [project]
 <!--END_SECTION:activity-->
+
+<details>
+<summary>📊 More Stats</summary>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdulazeem10&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F700&text_color=FFFFFF" alt="Wakatime Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=abdulazeem10-codearcade&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/abdulazeem10-codearcade">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulazeem10-codearcade&repo=abdulazeem10-codearcade&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700&text_color=FFFFFF" />
+</a>
+
+</div>
+
+<details>
+<summary>🔥 More Projects</summary>
+<br>
+
+### 💼 BlancosHQ Projects
+- 🌐 **Client Web Applications** - Full-stack MERN solutions
+- 📱 **Mobile Apps** - React Native cross-platform applications
+- 🎨 **AR/VR Experiences** - Three.js and WebXR implementations
+- 🔧 **Backend Systems** - Scalable Node.js + PostgreSQL architectures
+
+### 🎯 Personal Projects
+- 💻 **Portfolio Website** - Next.js + Tailwind CSS
+- 🤖 **Automation Tools** - Python scripts for productivity
+- 📊 **Data Visualization** - Interactive dashboards
+- 🎮 **Game Development** - Experimental projects
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -203,6 +264,16 @@ Team:
 ║   it's bad." – Cory House                                    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building%20the%20future,%20one%20commit%20at%20a%20time&author=Abdul%20Azeem" />
+</p>
+
+### 🎵 Currently Vibing To
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26cwhk2yiaxr5p4bf3fgwvqkq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f700&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks+For+Visiting!&fontSize=40&fontColor=fff&animation=twinkling" />
 
