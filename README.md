@@ -4,7 +4,7 @@
 
 <img src="./assets/animated-header.svg" alt="Animated Header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=800&height=100&lines=Full-Stack+Engineer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=800&height=100&lines=Full-Stack+Engineer+%F0%9F%9A%80;Backend+Specialist+%F0%9F%94%A7;MERN+Stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/snake.yaml">
@@ -25,7 +25,7 @@
 ┌─────────────────────────────────────────────────────────────────────┐
 │  > system.status                                                     │
 │  ✓ Location: Peshawar, Pakistan                                     │
-│  ✓ Role: Full-Stack Engineer                                        │
+│  ✓ Role: Full-Stack Engineer | Backend Specialist                   │
 │  ✓ Education: BS Computer Science @ FAST-NUCES                      │
 │  ✓ Mission: Transforming Ideas into Digital Reality                 │
 │  ✓ Stack: MERN | TypeScript | PostgreSQL | React Native             │
@@ -41,7 +41,8 @@ const abdulAzeem = {
     location: "Peshawar, Pakistan 🇵🇰",
     role: "Full-Stack Engineer",
     education: "FAST-NUCES",
-    currentFocus: ["Backend Architecture", "MERN Stack", "Client Solutions"],
+    currentFocus: ["Backend Architecture", "MERN Stack", "Advancing in Backend Development"],
+    specialization: "Backend Engineering",
     techStack: {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "MongoDB"],
