@@ -4,7 +4,7 @@
 
 <img src="./assets/animated-header.svg" alt="Animated Header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Co-Founder+%40+BlancosHQ+%F0%9F%92%BC;MERN+Stack+Enthusiast+%F0%9F%92%BB;Building+What+Others+Imagine+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=800&height=100&lines=Full-Stack+Engineer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/snake.yaml">
@@ -25,7 +25,7 @@
 ┌─────────────────────────────────────────────────────────────────────┐
 │  > system.status                                                     │
 │  ✓ Location: Peshawar, Pakistan                                     │
-│  ✓ Role: Co-Founder & Full-Stack Developer @ BlancosHQ              │
+│  ✓ Role: Full-Stack Engineer                                        │
 │  ✓ Education: BS Computer Science @ FAST-NUCES                      │
 │  ✓ Mission: Transforming Ideas into Digital Reality                 │
 │  ✓ Stack: MERN | TypeScript | PostgreSQL | React Native             │
@@ -39,18 +39,16 @@
 ```javascript
 const abdulAzeem = {
     location: "Peshawar, Pakistan 🇵🇰",
-    company: "BlancosHQ",
-    role: "Co-Founder & Full-Stack Developer",
+    role: "Full-Stack Engineer",
     education: "FAST-NUCES",
     currentFocus: ["Backend Architecture", "MERN Stack", "Client Solutions"],
     techStack: {
-        frontend: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
-        backend: ["Node.js", "Express.js", "NestJS", "MongoDB"],
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "MongoDB"],
         mobile: ["React Native"],
         tools: ["Git", "Linux", "Railway", "Render"],
-        learning: ["Next.js", "PostgreSQL", "Advanced Backend Patterns", "System Design"]
-    },
-    motto: "We build what others imagine ✨"
+        learning: ["NestJS", "PostgreSQL", "Advanced Backend Patterns", "System Design"]
+    }
 };
 ```
 
@@ -158,9 +156,7 @@ const abdulAzeem = {
   <a href="https://github.com/AbdulAzeem-10">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:hqblancos@gmail.com">
-    <img src="https://img.shields.io/badge/BlancosHQ-00F700?style=for-the-badge&logo=minutemailer&logoColor=black" />
-  </a>
+
 </p>
 
 <p align="center">
@@ -190,31 +186,7 @@ const abdulAzeem = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 BLANCOSHQ
 
-```bash
-$ cat blancoshq.info
-────────────────────────────────────────────────
-🏢 Company: BlancosHQ
-🌐 Website: blancoshq.com
-📧 Email: hqblancos@gmail.com
-📱 Phone: +92 318 9177303
-💡 Tagline: "We build what others imagine"
-────────────────────────────────────────────────
-Services:
-  ✓ Web Development (React, TypeScript, Node.js)
-  ✓ Mobile Development (React Native)
-  ✓ Backend Architecture (Express.js, NestJS, MongoDB)
-  ✓ AR/VR Solutions (Three.js, WebXR)
-────────────────────────────────────────────────
-Team:
-  • Abdul Azeem - Co-Founder & Full-Stack Dev
-  • Syed Khadeen - Co-Founder & Backend Architect
-  • Ikrama Shah - Co-Founder & AR/VR Specialist
-────────────────────────────────────────────────
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📝 RECENT ACTIVITY
 
@@ -256,17 +228,13 @@ Team:
 <summary>🔥 More Projects</summary>
 <br>
 
-### 💼 BlancosHQ Projects
-- 🌐 **Client Web Applications** - Full-stack MERN solutions
-- 📱 **Mobile Apps** - React Native cross-platform applications
-- 🎨 **AR/VR Experiences** - Three.js and WebXR implementations
-- 🔧 **Backend Systems** - Scalable Node.js + Express.js + NestJS + MongoDB architectures
-
 ### 🎯 Personal Projects
 - 💻 **Portfolio Website** - React + TypeScript + Tailwind CSS
 - 🤖 **Automation Tools** - Python scripts for productivity
 - 📊 **Data Visualization** - Interactive dashboards
 - 🎮 **Game Development** - Experimental projects
+- 🌐 **Web Applications** - Full-stack MERN solutions
+- 📱 **Mobile Apps** - React Native cross-platform applications
 
 </details>
 
