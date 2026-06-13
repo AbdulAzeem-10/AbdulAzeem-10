@@ -27,11 +27,66 @@
       .star { animation: twinkle 2s ease-in-out infinite; }
       .star2 { animation: twinkle 3s ease-in-out infinite; }
       .star3 { animation: twinkle 2.5s ease-in-out infinite; }
-      .character { animation: bounce 1s ease-in-out infinite; }
+      .character { 
+        animation: bounce 1s ease-in-out infinite;
+        transition: transform 0.3s ease-out;
+        cursor: pointer;
+      }
+      .character.following {
+        animation: none;
+      }
       .letter { animation: float 4s ease-in-out infinite; }
       .robot-eyes { animation: blink 3s ease-in-out infinite; }
     </style>
   </defs>
+  
+  <script type="text/javascript">
+    <![CDATA[
+      (function() {
+        const svg = document.querySelector('svg');
+        const character = document.querySelector('.character');
+        let isFollowing = false;
+        
+        // Get the initial transform values
+        const initialTransform = { x: 135, y: 60 };
+        
+        svg.addEventListener('mouseenter', function(e) {
+          isFollowing = true;
+          character.classList.add('following');
+        });
+        
+        svg.addEventListener('mouseleave', function(e) {
+          isFollowing = false;
+          character.classList.remove('following');
+          // Reset to initial position
+          character.setAttribute('transform', `translate(${initialTransform.x}, ${initialTransform.y})`);
+        });
+        
+        svg.addEventListener('mousemove', function(e) {
+          if (!isFollowing) return;
+          
+          const rect = svg.getBoundingClientRect();
+          const mouseX = e.clientX - rect.left;
+          const mouseY = e.clientY - rect.top;
+          
+          // Offset to center the character on the cursor (character is about 60px wide and 65px tall)
+          const offsetX = 30;
+          const offsetY = 35;
+          
+          // Calculate new position
+          let newX = mouseX - offsetX;
+          let newY = mouseY - offsetY;
+          
+          // Keep the character within bounds
+          const margin = 40;
+          newX = Math.max(margin, Math.min(newX, rect.width - margin));
+          newY = Math.max(margin, Math.min(newY, rect.height - margin - 30));
+          
+          character.setAttribute('transform', `translate(${newX}, ${newY})`);
+        });
+      })();
+    ]]>
+  </script>
   
   <!-- Background -->
   <rect width="1000" height="400" fill="#0d1117"/>

@@ -4,7 +4,7 @@
 
 <img src="./assets/animated-header.svg" alt="Animated Header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=800&height=100&lines=Full-Stack+Engineer+%F0%9F%9A%80;Backend+Specialist+%F0%9F%94%A7;MERN+Stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi,+I+am+Abdul+Azeem;I+am+actively+learning+Full-Stack+Engineering;Specializing+in+Backend+particularly;Exploring+System+Architecture)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/snake.yaml">
@@ -34,7 +34,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎯 CURRENT MISSION
+### CURRENT MISSION
 
 ```javascript
 const abdulAzeem = {
@@ -47,7 +47,7 @@ const abdulAzeem = {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "MongoDB"],
         mobile: ["React Native"],
-        tools: ["Git", "Linux", "Railway", "Render"],
+        tools: ["Git", "Linux", "Docker", "Postman"],
         learning: ["NestJS", "PostgreSQL", "Advanced Backend Patterns", "System Design"]
     }
 };
@@ -55,13 +55,13 @@ const abdulAzeem = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔥 STREAK STATS
+## STREAK STATS
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulAzeem-10&theme=chartreuse-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak Stats" />
 </p>
 
-## 📊 SYSTEM ANALYTICS
+## SYSTEM ANALYTICS
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700&text_color=FFFFFF&count_private=true&include_all_commits=true" />
@@ -82,7 +82,7 @@ const abdulAzeem = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulAzeem-10&theme=chartreuse_dark" />
 </p>
 
-## 🏆 ACHIEVEMENT UNLOCKED
+## ACHIEVEMENT UNLOCKED
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
@@ -94,22 +94,22 @@ const abdulAzeem = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 TECH ARSENAL
+## TECH ARSENAL
 
 ```text
 ┌─────────── FRONTEND ───────────┐  ┌─────────── BACKEND ────────────┐
 │ React.js        ████████░ 90%  │  │ Node.js         ████████░ 85%  │
-│ TypeScript      ████████░ 85%  │  │ Express.js      ████████░ 85%  │
+│ TypeScript      ██████░░░ 60%  │  │ Express.js      ████████░ 85%  │
 │ Tailwind CSS    █████████ 95%  │  │ NestJS          ███████░░ 75%  │
 │ JavaScript      █████████ 95%  │  │ MongoDB         ████████░ 85%  │
-│ HTML/CSS        █████████ 95%  │  │ REST APIs       ████████░ 80%  │
+│ HTML/CSS        █████████ 95%  │  │ REST APIs       █████░░░░ 52%  │
 └────────────────────────────────┘  └────────────────────────────────┘
 
 ┌──────────── MOBILE ────────────┐  ┌───────── TOOLS & OTHER ────────┐
 │ React Native    ███████░░ 75%  │  │ Git             █████████ 90%  │
-│ Three.js        ██████░░░ 65%  │  │ Linux           ████████░ 80%  │
-│ WebXR/AR        ██████░░░ 60%  │  │ Python          ███████░░ 75%  │
-└────────────────────────────────┘  │ C++             ███████░░ 70%  │
+│ Three.js        ██░░░░░░░ 23%  │  │ Linux           ░░░░░░░░░  4%  │
+│ WebXR/AR        █░░░░░░░░ 11%  │  │ Python          ███████░░ 75%  │
+└────────────────────────────────┘  │ C++             █████████ 90%  │
                                      └────────────────────────────────┘
 
 ┌────────── LEARNING ────────────┐
@@ -126,7 +126,7 @@ const abdulAzeem = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 CODING PROFILES
+## CODING PROFILES
 
 <p align="center">
   <a href="https://leetcode.com/u/abdulazeem_10/">
@@ -145,7 +145,7 @@ const abdulAzeem = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 CONNECT WITH ME
+## CONNECT WITH ME
 
 <p align="center">
   <a href="mailto:abdulazeemjd@gmail.com">
@@ -167,7 +167,7 @@ const abdulAzeem = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 CONTRIBUTION GRAPH
+## CONTRIBUTION GRAPH
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulAzeem-10/AbdulAzeem10-codearade/output/github-contribution-grid-snake-dark.svg">
@@ -176,7 +176,7 @@ const abdulAzeem = {
 </picture>
 
 <details>
-<summary>🎨 3D Contribution Graph</summary>
+<summary>3D Contribution Graph</summary>
 <br>
 
 <p align="center">
@@ -189,18 +189,18 @@ const abdulAzeem = {
 
 
 
-## 📝 RECENT ACTIVITY
+## RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🎯 Pushed code to [repository-name]
-2. ⭐ Starred [interesting-repo]
-3. 🔀 Merged PR in [project-name]
-4. 💬 Commented on issue in [repo-name]
-5. 🚀 Released new version of [project]
+1. Pushed code to [repository-name]
+2. Starred [interesting-repo]
+3. Merged PR in [project-name]
+4. Commented on issue in [repo-name]
+5. Released new version of [project]
 <!--END_SECTION:activity-->
 
 <details>
-<summary>📊 More Stats</summary>
+<summary>More Stats</summary>
 <br>
 
 <p align="center">
@@ -215,7 +215,7 @@ const abdulAzeem = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 FEATURED PROJECTS
+## FEATURED PROJECTS
 
 <div align="center">
 
@@ -226,16 +226,16 @@ const abdulAzeem = {
 </div>
 
 <details>
-<summary>🔥 More Projects</summary>
+<summary>More Projects</summary>
 <br>
 
-### 🎯 Personal Projects
-- 💻 **Portfolio Website** - React + TypeScript + Tailwind CSS
-- 🤖 **Automation Tools** - Python scripts for productivity
-- 📊 **Data Visualization** - Interactive dashboards
-- 🎮 **Game Development** - Experimental projects
-- 🌐 **Web Applications** - Full-stack MERN solutions
-- 📱 **Mobile Apps** - React Native cross-platform applications
+### Personal Projects
+- Portfolio Website - React + TypeScript + Tailwind CSS
+- Automation Tools - Python scripts for productivity
+- Data Visualization - Interactive dashboards
+- Game Development - Experimental projects
+- Web Applications - Full-stack MERN solutions
+- Mobile Apps - React Native cross-platform applications
 
 </details>
 
@@ -243,7 +243,7 @@ const abdulAzeem = {
 
 <div align="center">
 
-### 💚 Show Some Love
+### Show Some Love
 
 <p align="center">
   <a href="https://github.com/AbdulAzeem-10?tab=repositories">
@@ -262,7 +262,7 @@ const abdulAzeem = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building%20the%20future,%20one%20commit%20at%20a%20time&author=Abdul%20Azeem" />
 </p>
 
-### 🎵 Currently Vibing To
+### Currently Vibing To
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26cwhk2yiaxr5p4bf3fgwvqkq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f700&bar_color_cover=false" alt="Spotify Now Playing" />
