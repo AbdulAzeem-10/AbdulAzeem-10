@@ -231,7 +231,7 @@
   <line x1="0" y1="355" x2="1000" y2="355" stroke="#4a5568" stroke-width="2"/>
   
   <!-- Text - Centered -->
-  <text x="500" y="310" font-family="'Courier New', monospace" font-size="36" font-weight="bold" fill="#00d4ff" text-anchor="middle">
+  <text x="500" y="310" font-family="'Courier New', monospace" font-size="36" font-weight="bold" fill="#39d353" text-anchor="middle">
     ABDUL AZEEM
   </text>
   <text x="500" y="345" font-family="'Courier New', monospace" font-size="20" fill="#ffffff" text-anchor="middle">

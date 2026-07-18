@@ -4,7 +4,7 @@
 
 <img src="./assets/animated-header.svg" alt="Animated Header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi,+I+am+Abdul+Azeem;I+am+actively+learning+Full-Stack+Engineering;Specializing+in+Backend+particularly;Exploring+System+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=39d353&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi,+I+am+Abdul+Azeem;I+am+actively+learning+Full-Stack+Engineering;Specializing+in+Backend+particularly;Exploring+System+Architecture)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/snake.yaml">
@@ -21,16 +21,15 @@
   </a>
 </p>
 
-```ascii
-┌─────────────────────────────────────────────────────────────────────┐
-│  > system.status                                                     │
-│  ✓ Location: Peshawar, Pakistan                                     │
-│  ✓ Role: Full-Stack Engineer | Backend Specialist                   │
-│  ✓ Education: BS Computer Science @ FAST-NUCES                      │
-│  ✓ Mission: Transforming Ideas into Digital Reality                 │
-│  ✓ Stack: MERN | TypeScript | PostgreSQL | React Native             │
-└─────────────────────────────────────────────────────────────────────┘
-```
+## 👋 ABOUT ME
+
+<p align="center">
+  <strong>Full-Stack Software Engineer | Backend Specialist</strong>
+</p>
+
+Hello! I am a passionate and detail-oriented Full-Stack Engineer specializing in backend development, systems architecture, and web engineering. With a solid computer science background from **FAST-NUCES**, I specialize in building robust and scalable APIs, managing databases, and creating highly interactive frontend applications using the **MERN Stack**, **NestJS**, **TypeScript**, and **React Native**.
+
+I focus on writing clean, maintainable, and well-tested code while solving complex algorithmic challenges. I'm always looking to connect with recruiters and engineering leaders to collaborate on building next-generation digital solutions!
 
 <img src="./assets/divider.svg" width="100%">
 
@@ -58,68 +57,99 @@ const abdulAzeem = {
 ## STREAK STATS
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulAzeem-10&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulAzeem-10&theme=github-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak Stats" />
 </p>
 
 ## SYSTEM ANALYTICS
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulAzeem-10&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulAzeem-10&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulAzeem-10&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulAzeem-10&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulAzeem-10&theme=tokyonight" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=github_dark&hide_border=true" width="95%" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" width="95%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulAzeem-10&theme=github_dark" width="98%" />
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulAzeem-10&theme=github_dark" width="95%" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulAzeem-10&theme=github_dark" width="95%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulAzeem-10&theme=github_dark" width="95%" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulAzeem-10&theme=github_dark" width="95%" />
+    </td>
+  </tr>
+</table>
 
 ## ACHIEVEMENT UNLOCKED
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=github&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00f7ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=58a6ff&line=58a6ff&point=39d353&area=true&hide_border=true" />
 </p>
 
 <img src="./assets/divider.svg" width="100%">
 
 ## TECH ARSENAL
 
-```text
-┌─────────── FRONTEND ───────────┐  ┌─────────── BACKEND ────────────┐
-│ React.js        ████████░ 90%  │  │ Node.js         ████████░ 85%  │
-│ TypeScript      ██████░░░ 60%  │  │ Express.js      ████████░ 85%  │
-│ Tailwind CSS    █████████ 95%  │  │ NestJS          ███████░░ 75%  │
-│ JavaScript      █████████ 95%  │  │ MongoDB         ████████░ 85%  │
-│ HTML/CSS        █████████ 95%  │  │ REST APIs       █████░░░░ 52%  │
-└────────────────────────────────┘  └────────────────────────────────┘
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Frontend Development</h4>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=React.js&value=90&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=TypeScript&value=60&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=Tailwind%20CSS&value=95&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=JavaScript&value=95&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=HTML/CSS&value=95&color=238636" width="95%" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Database</h4>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=Node.js&value=85&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=Express.js&value=85&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=NestJS&value=75&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=MongoDB&value=85&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=REST%20APIs&value=70&color=238636" width="95%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile & Graphics</h4>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=React%20Native&value=75&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=Three.js&value=25&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=WebXR/AR&value=15&color=238636" width="95%" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ Tools & Programming</h4>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=Git&value=90&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=Python&value=75&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=C%2B%2B&value=90&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=PostgreSQL&value=50&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=System%20Design&value=55&color=238636" width="95%" />
+    </td>
+  </tr>
+</table>
 
-┌──────────── MOBILE ────────────┐  ┌───────── TOOLS & OTHER ────────┐
-│ React Native    ███████░░ 75%  │  │ Git             █████████ 90%  │
-│ Three.js        ██░░░░░░░ 23%  │  │ Linux           ░░░░░░░░░  4%  │
-│ WebXR/AR        █░░░░░░░░ 11%  │  │ Python          ███████░░ 75%  │
-└────────────────────────────────┘  │ C++             █████████ 90%  │
-                                     └────────────────────────────────┘
-
-┌────────── LEARNING ────────────┐
-│ Next.js         ██████░░░ 60%  │
-│ PostgreSQL      █████░░░░ 50%  │
-│ Prisma ORM      █████░░░░ 50%  │
-│ System Design   ██████░░░ 55%  │
-└────────────────────────────────┘
-```
-
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nestjs,mongodb,tailwind,git,github,linux,python,cpp,vscode,figma,threejs" />
 </p>
@@ -161,8 +191,8 @@ const abdulAzeem = {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulAzeem-10&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AbdulAzeem-10?label=FOLLOWERS&style=for-the-badge&color=00d4ff&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=AbdulAzeem-10&label=PROFILE+VIEWS&color=2ea44f&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AbdulAzeem-10?label=FOLLOWERS&style=for-the-badge&color=2ea44f&labelColor=0d1117" />
 </p>
 
 <img src="./assets/divider.svg" width="100%">
@@ -204,7 +234,7 @@ const abdulAzeem = {
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdulazeem10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdulazeem10&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=39d353&text_color=FFFFFF" alt="Wakatime Stats" />
 </p>
 
 <p align="center">
@@ -220,7 +250,7 @@ const abdulAzeem = {
 <div align="center">
 
 <a href="https://github.com/AbdulAzeem-10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulAzeem-10&repo=AbdulAzeem10-codearade&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulAzeem-10&repo=AbdulAzeem10-codearade&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=FFFFFF" />
 </a>
 
 </div>
@@ -247,7 +277,7 @@ const abdulAzeem = {
 
 <p align="center">
   <a href="https://github.com/AbdulAzeem-10?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-0070f3?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -268,6 +298,6 @@ const abdulAzeem = {
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/typing.gif" alt="Coding Cat" width="220" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3a8a,3b82f6,00d4ff&height=150&section=footer&text=Thanks+For+Visiting!&fontSize=40&fontColor=fff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,238636&height=150&section=footer&text=Thanks+For+Visiting!&fontSize=40&fontColor=fff&animation=twinkling" />
 
 </div>
