@@ -23,13 +23,24 @@
 
 ## 👋 ABOUT ME
 
-<p align="center">
-  <strong>Full-Stack Software Engineer | Backend Specialist</strong>
-</p>
-
-Hello! I am a passionate and detail-oriented Full-Stack Engineer specializing in backend development, systems architecture, and web engineering. With a solid computer science background from **FAST-NUCES**, I specialize in building robust and scalable APIs, managing databases, and creating highly interactive frontend applications using the **MERN Stack**, **NestJS**, **TypeScript**, and **React Native**.
-
-I focus on writing clean, maintainable, and well-tested code while solving complex algorithmic challenges. I'm always looking to connect with recruiters and engineering leaders to collaborate on building next-generation digital solutions!
+<table align="center" border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <p align="left">
+        <strong>Full-Stack Software Engineer | Backend Specialist</strong>
+      </p>
+      <p align="left">
+        Hello! I am a passionate and detail-oriented Full-Stack Engineer specializing in backend development, systems architecture, and web engineering. With a solid computer science background from <strong>FAST-NUCES</strong>, I specialize in building robust and scalable APIs, managing databases, and creating highly interactive frontend applications using the <strong>MERN Stack</strong>, <strong>NestJS</strong>, <strong>TypeScript</strong>, and <strong>React Native</strong>.
+      </p>
+      <p align="left">
+        I focus on writing clean, maintainable, and well-tested code while solving complex algorithmic challenges. I'm always looking to connect with recruiters and engineering leaders to collaborate on building next-generation digital solutions!
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%">
 
@@ -128,22 +139,22 @@ const abdulAzeem = {
       <img src="https://progressbar.ryo-ma.com/api/pb?title=Express.js&value=85&color=238636" width="95%" /><br><br>
       <img src="https://progressbar.ryo-ma.com/api/pb?title=NestJS&value=75&color=238636" width="95%" /><br><br>
       <img src="https://progressbar.ryo-ma.com/api/pb?title=MongoDB&value=85&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=REST%20APIs&value=70&color=238636" width="95%" />
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=REST%20APIs&value=52&color=238636" width="95%" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📱 Mobile & Graphics</h4>
       <img src="https://progressbar.ryo-ma.com/api/pb?title=React%20Native&value=75&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=Three.js&value=25&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=WebXR/AR&value=15&color=238636" width="95%" />
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=Three.js&value=23&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=WebXR/AR&value=11&color=238636" width="95%" />
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Tools & Programming</h4>
       <img src="https://progressbar.ryo-ma.com/api/pb?title=Git&value=90&color=238636" width="95%" /><br><br>
+      <img src="https://progressbar.ryo-ma.com/api/pb?title=Linux&value=4&color=238636" width="95%" /><br><br>
       <img src="https://progressbar.ryo-ma.com/api/pb?title=Python&value=75&color=238636" width="95%" /><br><br>
       <img src="https://progressbar.ryo-ma.com/api/pb?title=C%2B%2B&value=90&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=PostgreSQL&value=50&color=238636" width="95%" /><br><br>
       <img src="https://progressbar.ryo-ma.com/api/pb?title=System%20Design&value=55&color=238636" width="95%" />
     </td>
   </tr>
