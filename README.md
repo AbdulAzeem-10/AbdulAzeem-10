@@ -121,265 +121,47 @@ const abdulAzeem = {
 
 <img src="./assets/divider.svg" width="100%">
 
-## TECH ARSENAL
+## 💻 TECH STACK
 
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Frontend Development</h3>
-      <table width="100%">
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=react" width="25" height="25" /></td>
-          <td><strong>React.js</strong></td>
-          <td width="40" align="right">90%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/400x8/39d353/39d353?text=+" width="90%" height="8" />
-            <img src="https://via.placeholder.com/44x8/1f1f1f/1f1f1f?text=+" width="10%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=ts" width="25" height="25" /></td>
-          <td><strong>TypeScript</strong></td>
-          <td width="40" align="right">60%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/266x8/39d353/39d353?text=+" width="60%" height="8" />
-            <img src="https://via.placeholder.com/177x8/1f1f1f/1f1f1f?text=+" width="40%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=tailwind" width="25" height="25" /></td>
-          <td><strong>Tailwind CSS</strong></td>
-          <td width="40" align="right">95%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/422x8/39d353/39d353?text=+" width="95%" height="8" />
-            <img src="https://via.placeholder.com/22x8/1f1f1f/1f1f1f?text=+" width="5%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=js" width="25" height="25" /></td>
-          <td><strong>JavaScript</strong></td>
-          <td width="40" align="right">95%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/422x8/39d353/39d353?text=+" width="95%" height="8" />
-            <img src="https://via.placeholder.com/22x8/1f1f1f/1f1f1f?text=+" width="5%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=html" width="25" height="25" /></td>
-          <td><strong>HTML/CSS</strong></td>
-          <td width="40" align="right">95%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/422x8/39d353/39d353?text=+" width="95%" height="8" />
-            <img src="https://via.placeholder.com/22x8/1f1f1f/1f1f1f?text=+" width="5%" height="8" />
-          </td>
-        </tr>
-      </table>
-    </td>
-    
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend & Database</h3>
-      <table width="100%">
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=nodejs" width="25" height="25" /></td>
-          <td><strong>Node.js</strong></td>
-          <td width="40" align="right">85%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/377x8/39d353/39d353?text=+" width="85%" height="8" />
-            <img src="https://via.placeholder.com/66x8/1f1f1f/1f1f1f?text=+" width="15%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=express" width="25" height="25" /></td>
-          <td><strong>Express.js</strong></td>
-          <td width="40" align="right">85%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/377x8/39d353/39d353?text=+" width="85%" height="8" />
-            <img src="https://via.placeholder.com/66x8/1f1f1f/1f1f1f?text=+" width="15%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=nestjs" width="25" height="25" /></td>
-          <td><strong>NestJS</strong></td>
-          <td width="40" align="right">75%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/333x8/39d353/39d353?text=+" width="75%" height="8" />
-            <img src="https://via.placeholder.com/111x8/1f1f1f/1f1f1f?text=+" width="25%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=mongodb" width="25" height="25" /></td>
-          <td><strong>MongoDB</strong></td>
-          <td width="40" align="right">85%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/377x8/39d353/39d353?text=+" width="85%" height="8" />
-            <img src="https://via.placeholder.com/66x8/1f1f1f/1f1f1f?text=+" width="15%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=postman" width="25" height="25" /></td>
-          <td><strong>REST APIs</strong></td>
-          <td width="40" align="right">52%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/231x8/39d353/39d353?text=+" width="52%" height="8" />
-            <img src="https://via.placeholder.com/213x8/1f1f1f/1f1f1f?text=+" width="48%" height="8" />
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  
-  <tr><td colspan="2"><br><br></td></tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 Mobile & Graphics</h3>
-      <table width="100%">
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=react" width="25" height="25" /></td>
-          <td><strong>React Native</strong></td>
-          <td width="40" align="right">75%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/333x8/39d353/39d353?text=+" width="75%" height="8" />
-            <img src="https://via.placeholder.com/111x8/1f1f1f/1f1f1f?text=+" width="25%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=threejs" width="25" height="25" /></td>
-          <td><strong>Three.js</strong></td>
-          <td width="40" align="right">23%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/102x8/39d353/39d353?text=+" width="23%" height="8" />
-            <img src="https://via.placeholder.com/342x8/1f1f1f/1f1f1f?text=+" width="77%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="25" height="25" /></td>
-          <td><strong>WebXR/AR</strong></td>
-          <td width="40" align="right">11%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/49x8/39d353/39d353?text=+" width="11%" height="8" />
-            <img src="https://via.placeholder.com/395x8/1f1f1f/1f1f1f?text=+" width="89%" height="8" />
-          </td>
-        </tr>
-      </table>
-    </td>
-    
-    <td width="50%" valign="top">
-      <h3>🛠️ Tools & Programming</h3>
-      <table width="100%">
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=git" width="25" height="25" /></td>
-          <td><strong>Git</strong></td>
-          <td width="40" align="right">90%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/400x8/39d353/39d353?text=+" width="90%" height="8" />
-            <img src="https://via.placeholder.com/44x8/1f1f1f/1f1f1f?text=+" width="10%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=linux" width="25" height="25" /></td>
-          <td><strong>Linux</strong></td>
-          <td width="40" align="right">4%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/18x8/39d353/39d353?text=+" width="4%" height="8" />
-            <img src="https://via.placeholder.com/426x8/1f1f1f/1f1f1f?text=+" width="96%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=python" width="25" height="25" /></td>
-          <td><strong>Python</strong></td>
-          <td width="40" align="right">75%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/333x8/39d353/39d353?text=+" width="75%" height="8" />
-            <img src="https://via.placeholder.com/111x8/1f1f1f/1f1f1f?text=+" width="25%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=cpp" width="25" height="25" /></td>
-          <td><strong>C++</strong></td>
-          <td width="40" align="right">90%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/400x8/39d353/39d353?text=+" width="90%" height="8" />
-            <img src="https://via.placeholder.com/44x8/1f1f1f/1f1f1f?text=+" width="10%" height="8" />
-          </td>
-        </tr>
-        <tr><td colspan="3"><br></td></tr>
-        
-        <tr>
-          <td width="30"><img src="https://skillicons.dev/icons?i=docker" width="25" height="25" /></td>
-          <td><strong>Docker</strong></td>
-          <td width="40" align="right">55%</td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <img src="https://via.placeholder.com/244x8/39d353/39d353?text=+" width="55%" height="8" />
-            <img src="https://via.placeholder.com/200x8/1f1f1f/1f1f1f?text=+" width="45%" height="8" />
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Styling & UI
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+### Databases & Backend
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### IDEs & Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 <img src="./assets/divider.svg" width="100%">
 
