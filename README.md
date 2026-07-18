@@ -125,178 +125,258 @@ const abdulAzeem = {
 
 <table align="center" width="100%" border="0">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
       <h3>💻 Frontend Development</h3>
-      <table>
+      <table width="100%">
         <tr>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-            <br>React.js
-          </td>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-            <br>TypeScript
-          </td>
+          <td width="30"><img src="https://skillicons.dev/icons?i=react" width="25" height="25" /></td>
+          <td><strong>React.js</strong></td>
+          <td width="40" align="right">90%</td>
         </tr>
         <tr>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-            <br>Tailwind CSS
-          </td>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-            <br>JavaScript
+          <td colspan="3">
+            <img src="https://via.placeholder.com/400x8/39d353/39d353?text=+" width="90%" height="8" />
+            <img src="https://via.placeholder.com/44x8/1f1f1f/1f1f1f?text=+" width="10%" height="8" />
           </td>
         </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
         <tr>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-            <br>HTML
+          <td width="30"><img src="https://skillicons.dev/icons?i=ts" width="25" height="25" /></td>
+          <td><strong>TypeScript</strong></td>
+          <td width="40" align="right">60%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/266x8/39d353/39d353?text=+" width="60%" height="8" />
+            <img src="https://via.placeholder.com/177x8/1f1f1f/1f1f1f?text=+" width="40%" height="8" />
           </td>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-            <br>CSS
+        </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
+        <tr>
+          <td width="30"><img src="https://skillicons.dev/icons?i=tailwind" width="25" height="25" /></td>
+          <td><strong>Tailwind CSS</strong></td>
+          <td width="40" align="right">95%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/422x8/39d353/39d353?text=+" width="95%" height="8" />
+            <img src="https://via.placeholder.com/22x8/1f1f1f/1f1f1f?text=+" width="5%" height="8" />
+          </td>
+        </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
+        <tr>
+          <td width="30"><img src="https://skillicons.dev/icons?i=js" width="25" height="25" /></td>
+          <td><strong>JavaScript</strong></td>
+          <td width="40" align="right">95%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/422x8/39d353/39d353?text=+" width="95%" height="8" />
+            <img src="https://via.placeholder.com/22x8/1f1f1f/1f1f1f?text=+" width="5%" height="8" />
+          </td>
+        </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
+        <tr>
+          <td width="30"><img src="https://skillicons.dev/icons?i=html" width="25" height="25" /></td>
+          <td><strong>HTML/CSS</strong></td>
+          <td width="40" align="right">95%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/422x8/39d353/39d353?text=+" width="95%" height="8" />
+            <img src="https://via.placeholder.com/22x8/1f1f1f/1f1f1f?text=+" width="5%" height="8" />
           </td>
         </tr>
       </table>
     </td>
-    <td width="50%" valign="top" align="center">
+    
+    <td width="50%" valign="top">
       <h3>⚙️ Backend & Database</h3>
-      <table>
+      <table width="100%">
         <tr>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-            <br>Node.js
-          </td>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-            <br>Express.js
-          </td>
+          <td width="30"><img src="https://skillicons.dev/icons?i=nodejs" width="25" height="25" /></td>
+          <td><strong>Node.js</strong></td>
+          <td width="40" align="right">85%</td>
         </tr>
         <tr>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-            <br>NestJS
-          </td>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-            <br>MongoDB
+          <td colspan="3">
+            <img src="https://via.placeholder.com/377x8/39d353/39d353?text=+" width="85%" height="8" />
+            <img src="https://via.placeholder.com/66x8/1f1f1f/1f1f1f?text=+" width="15%" height="8" />
           </td>
         </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
         <tr>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-            <br>PostgreSQL
+          <td width="30"><img src="https://skillicons.dev/icons?i=express" width="25" height="25" /></td>
+          <td><strong>Express.js</strong></td>
+          <td width="40" align="right">85%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/377x8/39d353/39d353?text=+" width="85%" height="8" />
+            <img src="https://via.placeholder.com/66x8/1f1f1f/1f1f1f?text=+" width="15%" height="8" />
           </td>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-            <br>REST APIs
+        </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
+        <tr>
+          <td width="30"><img src="https://skillicons.dev/icons?i=nestjs" width="25" height="25" /></td>
+          <td><strong>NestJS</strong></td>
+          <td width="40" align="right">75%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/333x8/39d353/39d353?text=+" width="75%" height="8" />
+            <img src="https://via.placeholder.com/111x8/1f1f1f/1f1f1f?text=+" width="25%" height="8" />
+          </td>
+        </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
+        <tr>
+          <td width="30"><img src="https://skillicons.dev/icons?i=mongodb" width="25" height="25" /></td>
+          <td><strong>MongoDB</strong></td>
+          <td width="40" align="right">85%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/377x8/39d353/39d353?text=+" width="85%" height="8" />
+            <img src="https://via.placeholder.com/66x8/1f1f1f/1f1f1f?text=+" width="15%" height="8" />
+          </td>
+        </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
+        <tr>
+          <td width="30"><img src="https://skillicons.dev/icons?i=postman" width="25" height="25" /></td>
+          <td><strong>REST APIs</strong></td>
+          <td width="40" align="right">52%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/231x8/39d353/39d353?text=+" width="52%" height="8" />
+            <img src="https://via.placeholder.com/213x8/1f1f1f/1f1f1f?text=+" width="48%" height="8" />
           </td>
         </tr>
       </table>
     </td>
   </tr>
+  
+  <tr><td colspan="2"><br><br></td></tr>
+  
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
       <h3>📱 Mobile & Graphics</h3>
-      <table>
+      <table width="100%">
         <tr>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-            <br>React Native
-          </td>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-            <br>Three.js
-          </td>
+          <td width="30"><img src="https://skillicons.dev/icons?i=react" width="25" height="25" /></td>
+          <td><strong>React Native</strong></td>
+          <td width="40" align="right">75%</td>
         </tr>
         <tr>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-            <br>Next.js
+          <td colspan="3">
+            <img src="https://via.placeholder.com/333x8/39d353/39d353?text=+" width="75%" height="8" />
+            <img src="https://via.placeholder.com/111x8/1f1f1f/1f1f1f?text=+" width="25%" height="8" />
           </td>
-          <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ar/ar.png" width="48" height="48" alt="WebXR/AR" />
-            <br>WebXR/AR
+        </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
+        <tr>
+          <td width="30"><img src="https://skillicons.dev/icons?i=threejs" width="25" height="25" /></td>
+          <td><strong>Three.js</strong></td>
+          <td width="40" align="right">23%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/102x8/39d353/39d353?text=+" width="23%" height="8" />
+            <img src="https://via.placeholder.com/342x8/1f1f1f/1f1f1f?text=+" width="77%" height="8" />
+          </td>
+        </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
+        <tr>
+          <td width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="25" height="25" /></td>
+          <td><strong>WebXR/AR</strong></td>
+          <td width="40" align="right">11%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/49x8/39d353/39d353?text=+" width="11%" height="8" />
+            <img src="https://via.placeholder.com/395x8/1f1f1f/1f1f1f?text=+" width="89%" height="8" />
           </td>
         </tr>
       </table>
     </td>
-    <td width="50%" valign="top" align="center">
+    
+    <td width="50%" valign="top">
       <h3>🛠️ Tools & Programming</h3>
-      <table>
+      <table width="100%">
         <tr>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-            <br>Git
-          </td>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-            <br>GitHub
-          </td>
+          <td width="30"><img src="https://skillicons.dev/icons?i=git" width="25" height="25" /></td>
+          <td><strong>Git</strong></td>
+          <td width="40" align="right">90%</td>
         </tr>
         <tr>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-            <br>Linux
-          </td>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-            <br>Docker
+          <td colspan="3">
+            <img src="https://via.placeholder.com/400x8/39d353/39d353?text=+" width="90%" height="8" />
+            <img src="https://via.placeholder.com/44x8/1f1f1f/1f1f1f?text=+" width="10%" height="8" />
           </td>
         </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
         <tr>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-            <br>Python
+          <td width="30"><img src="https://skillicons.dev/icons?i=linux" width="25" height="25" /></td>
+          <td><strong>Linux</strong></td>
+          <td width="40" align="right">4%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/18x8/39d353/39d353?text=+" width="4%" height="8" />
+            <img src="https://via.placeholder.com/426x8/1f1f1f/1f1f1f?text=+" width="96%" height="8" />
           </td>
-          <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-            <br>C++
+        </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
+        <tr>
+          <td width="30"><img src="https://skillicons.dev/icons?i=python" width="25" height="25" /></td>
+          <td><strong>Python</strong></td>
+          <td width="40" align="right">75%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/333x8/39d353/39d353?text=+" width="75%" height="8" />
+            <img src="https://via.placeholder.com/111x8/1f1f1f/1f1f1f?text=+" width="25%" height="8" />
+          </td>
+        </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
+        <tr>
+          <td width="30"><img src="https://skillicons.dev/icons?i=cpp" width="25" height="25" /></td>
+          <td><strong>C++</strong></td>
+          <td width="40" align="right">90%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/400x8/39d353/39d353?text=+" width="90%" height="8" />
+            <img src="https://via.placeholder.com/44x8/1f1f1f/1f1f1f?text=+" width="10%" height="8" />
+          </td>
+        </tr>
+        <tr><td colspan="3"><br></td></tr>
+        
+        <tr>
+          <td width="30"><img src="https://skillicons.dev/icons?i=docker" width="25" height="25" /></td>
+          <td><strong>Docker</strong></td>
+          <td width="40" align="right">55%</td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <img src="https://via.placeholder.com/244x8/39d353/39d353?text=+" width="55%" height="8" />
+            <img src="https://via.placeholder.com/200x8/1f1f1f/1f1f1f?text=+" width="45%" height="8" />
           </td>
         </tr>
       </table>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### Skill Proficiency Levels
-
-<table align="center" width="90%">
-  <tr>
-    <td width="50%">
-      <img src="https://skillicons.dev/icons?i=react" width="20" height="20" alt="React" /> <strong>React.js:</strong> 90%<br>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fake&repo=fake&hide_border=true&bg_color=0d1117&title_color=39d353&show_owner=false" style="width:90%;height:8px;background:linear-gradient(to right, #39d353 90%, #1f1f1f 90%);" />
-    </td>
-    <td width="50%">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" alt="Node.js" /> <strong>Node.js:</strong> 85%<br>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fake&repo=fake&hide_border=true&bg_color=0d1117&title_color=39d353&show_owner=false" style="width:85%;height:8px;background:linear-gradient(to right, #39d353 85%, #1f1f1f 85%);" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript" /> <strong>TypeScript:</strong> 60%
-    </td>
-    <td width="50%">
-      <img src="https://skillicons.dev/icons?i=express" width="20" height="20" alt="Express" /> <strong>Express.js:</strong> 85%
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript" /> <strong>JavaScript:</strong> 95%
-    </td>
-    <td width="50%">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="20" height="20" alt="MongoDB" /> <strong>MongoDB:</strong> 85%
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://skillicons.dev/icons?i=cpp" width="20" height="20" alt="C++" /> <strong>C++:</strong> 90%
-    </td>
-    <td width="50%">
-      <img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python" /> <strong>Python:</strong> 75%
     </td>
   </tr>
 </table>
