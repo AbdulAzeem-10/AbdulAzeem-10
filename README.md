@@ -123,47 +123,183 @@ const abdulAzeem = {
 
 ## TECH ARSENAL
 
-<table align="center" width="100%">
+<table align="center" width="100%" border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Frontend Development</h4>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=React.js&value=90&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=TypeScript&value=60&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=Tailwind%20CSS&value=95&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=JavaScript&value=95&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=HTML/CSS&value=95&color=238636" width="95%" />
+    <td width="50%" valign="top" align="center">
+      <h3>💻 Frontend Development</h3>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+            <br>React.js
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+            <br>TypeScript
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+            <br>Tailwind CSS
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+            <br>JavaScript
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <br>HTML
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+            <br>CSS
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & Database</h4>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=Node.js&value=85&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=Express.js&value=85&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=NestJS&value=75&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=MongoDB&value=85&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=REST%20APIs&value=52&color=238636" width="95%" />
+    <td width="50%" valign="top" align="center">
+      <h3>⚙️ Backend & Database</h3>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+            <br>Node.js
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+            <br>Express.js
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+            <br>NestJS
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+            <br>MongoDB
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+            <br>PostgreSQL
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+            <br>REST APIs
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>📱 Mobile & Graphics</h4>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=React%20Native&value=75&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=Three.js&value=23&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=WebXR/AR&value=11&color=238636" width="95%" />
+    <td width="50%" valign="top" align="center">
+      <h3>📱 Mobile & Graphics</h3>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+            <br>React Native
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+            <br>Three.js
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+            <br>Next.js
+          </td>
+          <td align="center" width="96">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ar/ar.png" width="48" height="48" alt="WebXR/AR" />
+            <br>WebXR/AR
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Tools & Programming</h4>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=Git&value=90&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=Linux&value=4&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=Python&value=75&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=C%2B%2B&value=90&color=238636" width="95%" /><br><br>
-      <img src="https://progressbar.ryo-ma.com/api/pb?title=System%20Design&value=55&color=238636" width="95%" />
+    <td width="50%" valign="top" align="center">
+      <h3>🛠️ Tools & Programming</h3>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+            <br>Git
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+            <br>GitHub
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+            <br>Linux
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+            <br>Docker
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+            <br>Python
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+            <br>C++
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 <br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nestjs,mongodb,tailwind,git,github,linux,python,cpp,vscode,figma,threejs" />
-</p>
+
+### Skill Proficiency Levels
+
+<table align="center" width="90%">
+  <tr>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=react" width="20" height="20" alt="React" /> <strong>React.js:</strong> 90%<br>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fake&repo=fake&hide_border=true&bg_color=0d1117&title_color=39d353&show_owner=false" style="width:90%;height:8px;background:linear-gradient(to right, #39d353 90%, #1f1f1f 90%);" />
+    </td>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" alt="Node.js" /> <strong>Node.js:</strong> 85%<br>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fake&repo=fake&hide_border=true&bg_color=0d1117&title_color=39d353&show_owner=false" style="width:85%;height:8px;background:linear-gradient(to right, #39d353 85%, #1f1f1f 85%);" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=ts" width="20" height="20" alt="TypeScript" /> <strong>TypeScript:</strong> 60%
+    </td>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=express" width="20" height="20" alt="Express" /> <strong>Express.js:</strong> 85%
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript" /> <strong>JavaScript:</strong> 95%
+    </td>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="20" height="20" alt="MongoDB" /> <strong>MongoDB:</strong> 85%
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=cpp" width="20" height="20" alt="C++" /> <strong>C++:</strong> 90%
+    </td>
+    <td width="50%">
+      <img src="https://skillicons.dev/icons?i=python" width="20" height="20" alt="Python" /> <strong>Python:</strong> 75%
+    </td>
+  </tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%">
 
