@@ -89,14 +89,6 @@ const abdulAzeem = {
       <br><br>
     </td>
   </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&theme=github-compact" width="95%" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=radical&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15&title=Commit,Repositories,PullRequest" width="95%" />
-    </td>
-  </tr>
 </table>
 
 ## ACHIEVEMENT UNLOCKED
