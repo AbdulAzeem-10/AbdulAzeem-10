@@ -4,7 +4,7 @@
 
 <img src="./assets/animated-header.svg" alt="Animated Header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=39d353&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi,+I+am+Abdul+Azeem;I+am+actively+learning+Full-Stack+Engineering;Specializing+in+Backend+particularly;Exploring+System+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4285f4&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi,+I+am+Abdul+Azeem;I+am+actively+learning+Full-Stack+Engineering;Specializing+in+Backend+particularly;Exploring+System+Architecture)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/snake.yaml">
@@ -68,7 +68,7 @@ const abdulAzeem = {
 ## STREAK STATS
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulAzeem-10&theme=github-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AbdulAzeem-10&theme=radical&hide_border=true&stroke=4285f4&ring=ea4335&fire=fbbc04&currStreakLabel=34a853&sideLabels=4285f4&currStreakNum=fbbc04&sideNums=ea4335&background=0d1117&card_width=800" alt="GitHub Streak Stats" />
 </p>
 
 ## SYSTEM ANALYTICS
@@ -76,35 +76,25 @@ const abdulAzeem = {
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=github_dark&hide_border=true" width="95%" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=radical&hide_border=true&title_color=4285f4&icon_color=ea4335&text_color=fbbc04&bg_color=0d1117" width="95%" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" width="95%" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=radical&hide_border=true&title_color=4285f4&text_color=fbbc04&bg_color=0d1117&hide=jupyter%20notebook" width="95%" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2" valign="top">
       <br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulAzeem-10&theme=github_dark" width="98%" />
+      <img src="https://streak-stats.demolab.com/?user=AbdulAzeem-10&theme=radical&hide_border=true&stroke=4285f4&ring=ea4335&fire=fbbc04&currStreakLabel=34a853&sideLabels=4285f4&currStreakNum=fbbc04&sideNums=ea4335&background=0d1117" width="98%" />
       <br><br>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulAzeem-10&theme=github_dark" width="95%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&theme=github-compact" width="95%" />
     </td>
     <td align="center" valign="top" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulAzeem-10&theme=github_dark" width="95%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulAzeem-10&theme=github_dark" width="95%" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulAzeem-10&theme=github_dark" width="95%" />
+      <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=radical&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15&title=Commit,Repositories,PullRequest" width="95%" />
     </td>
   </tr>
 </table>
@@ -112,11 +102,11 @@ const abdulAzeem = {
 ## ACHIEVEMENT UNLOCKED
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=github&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=58a6ff&line=58a6ff&point=39d353&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&theme=github-compact" />
 </p>
 
 <img src="./assets/divider.svg" width="100%">
@@ -128,15 +118,19 @@ const abdulAzeem = {
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Styling & UI
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
@@ -144,6 +138,9 @@ const abdulAzeem = {
 ### Databases & Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### DevOps & Tools
@@ -151,9 +148,12 @@ const abdulAzeem = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -200,8 +200,8 @@ const abdulAzeem = {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulAzeem-10&label=PROFILE+VIEWS&color=2ea44f&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AbdulAzeem-10?label=FOLLOWERS&style=for-the-badge&color=2ea44f&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=AbdulAzeem-10&label=PROFILE+VIEWS&color=4285f4&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AbdulAzeem-10?label=FOLLOWERS&style=for-the-badge&color=ea4335&labelColor=0d1117" />
 </p>
 
 <img src="./assets/divider.svg" width="100%">
@@ -243,7 +243,7 @@ const abdulAzeem = {
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdulazeem10&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=39d353&text_color=FFFFFF" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=abdulazeem10&theme=radical&hide_border=true&bg_color=0D1117&title_color=4285f4&text_color=fbbc04" alt="Wakatime Stats" />
 </p>
 
 <p align="center">
@@ -259,7 +259,7 @@ const abdulAzeem = {
 <div align="center">
 
 <a href="https://github.com/AbdulAzeem-10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulAzeem-10&repo=AbdulAzeem10-codearade&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=FFFFFF" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AbdulAzeem-10&repo=AbdulAzeem10-codearade&theme=radical&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=ea4335&text_color=fbbc04" />
 </a>
 
 </div>
@@ -286,7 +286,7 @@ const abdulAzeem = {
 
 <p align="center">
   <a href="https://github.com/AbdulAzeem-10?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-4285f4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -307,6 +307,6 @@ const abdulAzeem = {
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/typing.gif" alt="Coding Cat" width="220" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,238636&height=150&section=footer&text=Thanks+For+Visiting!&fontSize=40&fontColor=fff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4285f4,ea4335,fbbc04,34a853&height=150&section=footer&text=Thanks+For+Visiting!&fontSize=40&fontColor=fff&animation=twinkling" />
 
 </div>
