@@ -232,22 +232,6 @@ const abdulAzeem = {
 
 </div>
 
----
-
-## 📖 CURRENTLY READING
-
-<div align="center">
-
-📕 **Designing Data-Intensive Applications** - Martin Kleppmann  
-📘 **Clean Architecture** - Robert C. Martin  
-📗 **System Design Interview** - Alex Xu  
-📙 **Database Internals** - Alex Petrov  
-📓 **The Pragmatic Programmer** - Hunt & Thomas
-
-</div>
-
----
-
 ## 🎯 CODING PROFILES
 
 <p align="center">
