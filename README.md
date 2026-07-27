@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=2000&pause=1000&color=34A853&center=false&vCenter=true&width=500&lines=ABDUL+AZEEM" alt="Abdul Azeem" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="38" />
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> ABDUL AZEEM <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="38" />
 
 <img src="./assets/animated-header.svg" alt="Animated Header" width="100%"/>
 
