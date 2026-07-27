@@ -1,10 +1,10 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> ABDUL AZEEM <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="38" />
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=2000&pause=1000&color=34A853&center=false&vCenter=true&width=500&lines=ABDUL+AZEEM" alt="Abdul Azeem" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="38" />
 
 <img src="./assets/animated-header.svg" alt="Animated Header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4285f4&center=true&vCenter=true&random=false&width=800&height=100&lines=Backend-Focused+Full-Stack+Software+Engineer;Building+Scalable+APIs+and+Modern+React+Apps;Node.js+•+Express+•+NestJS+•+React+•+Redux+Toolkit;Specializing+in+System+Design+%26+Architecture;Open+to+Backend+Engineering+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4285f4&center=true&vCenter=true&random=false&width=1200&height=120&lines=Backend-Focused+Full-Stack+Software+Engineer;Building+Scalable+APIs+and+Modern+React+Applications;Node.js+•+Express+•+NestJS+•+React+•+Redux+Toolkit+•+TypeScript;Specializing+in+System+Design+and+Backend+Architecture;Open+to+Backend+Engineering+Opportunities+and+Internships)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/snake.yaml">
