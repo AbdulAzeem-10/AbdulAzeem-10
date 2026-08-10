@@ -312,6 +312,8 @@ const abdulAzeem = {
 ## 📝 RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/AbdulAzeem-10/Subscription-management-App/pull/1) in [AbdulAzeem-10/Subscription-management-App](https://github.com/AbdulAzeem-10/Subscription-management-App)
+2. 💪 Opened PR [#1](https://github.com/AbdulAzeem-10/Subscription-management-App/pull/1) in [AbdulAzeem-10/Subscription-management-App](https://github.com/AbdulAzeem-10/Subscription-management-App)
 <!--END_SECTION:activity-->
 
 <p align="center"><em>⚡ Recent GitHub activity will be displayed here automatically</em></p>
