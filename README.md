@@ -103,29 +103,26 @@ const abdulAzeem = {
 
 ## 📊 GITHUB ANALYTICS
 
-<table align="center" width="100%" border="0" cellpadding="10">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=radical&hide_border=true&title_color=4285f4&icon_color=ea4335&text_color=fbbc04&bg_color=0d1117&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=radical&hide_border=true&title_color=4285f4&text_color=fbbc04&bg_color=0d1117&hide=jupyter%20notebook&langs_count=8" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/AbdulAzeem-10">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=radical&hide_border=true&title_color=4285f4&icon_color=ea4335&text_color=fbbc04&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=radical&hide_border=true&title_color=4285f4&text_color=fbbc04&bg_color=0d1117&hide=jupyter%20notebook&langs_count=8"/>
+</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity Graph" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAzeem-10&theme=radical&hide_border=true&stroke=4285f4&ring=ea4335&fire=fbbc04&currStreakLabel=34a853&sideLabels=4285f4&currStreakNum=fbbc04&sideNums=ea4335&background=0d1117" width="95%" alt="GitHub Streak Stats" />
+
+</div>
 
 ---
 
 ## 🏆 ACHIEVEMENTS
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
+</div>
 
 ---
 
@@ -163,6 +160,12 @@ const abdulAzeem = {
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Arcjet](https://img.shields.io/badge/Arcjet-4285f4?style=for-the-badge&logo=shield&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-1d4aff?style=for-the-badge&logo=posthog&logoColor=white)
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
