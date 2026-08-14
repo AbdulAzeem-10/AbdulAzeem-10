@@ -103,31 +103,27 @@ const abdulAzeem = {
 
 ## 📊 GITHUB ANALYTICS
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=ea4335&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4285f4&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="48%" />
+</p>
 
-<a href="https://github.com/AbdulAzeem-10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=react&hide_border=true&title_color=4285f4&icon_color=ea4335&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=react&hide_border=true&title_color=4285f4&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=jupyter%20notebook"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulAzeem-10&theme=tokyonight&hide_border=true&background=0D1117&stroke=4285F4&ring=EA4335&fire=FBBC04&currStreakLabel=34A853" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=ea4335&text_color=c9d1d9&count_private=true&hide_rank=true" alt="Contribution Stats" width="48%" />
+</p>
 
-<br/>
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AbdulAzeem-10&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=4285F4&ring=EA4335&fire=FBBC04&currStreakLabel=34A853&sideLabels=4285F4&currStreakNum=FBBC04&sideNums=EA4335" width="95%" alt="GitHub Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true" alt="Contribution Graph" width="98%" />
+</p>
 
 ---
 
 ## 🏆 ACHIEVEMENTS
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="98%" />
+</p>
 
 ---
 
