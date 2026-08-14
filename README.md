@@ -105,14 +105,17 @@ const abdulAzeem = {
 
 <div align="center">
 
+### 📈 GitHub Stats & Language Distribution
 <a href="https://github.com/AbdulAzeem-10">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=radical&hide_border=true&title_color=4285f4&icon_color=ea4335&text_color=fbbc04&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=radical&hide_border=true&title_color=4285f4&text_color=fbbc04&bg_color=0d1117&hide=jupyter%20notebook&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=react&hide_border=true&title_color=4285f4&icon_color=ea4335&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=react&hide_border=true&title_color=4285f4&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=jupyter%20notebook"/>
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity Graph" />
+### 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com?user=AbdulAzeem-10&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=4285F4&ring=EA4335&fire=FBBC04&currStreakLabel=34A853&sideLabels=4285F4&currStreakNum=FBBC04&sideNums=EA4335" width="95%" alt="GitHub Streak Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAzeem-10&theme=radical&hide_border=true&stroke=4285f4&ring=ea4335&fire=fbbc04&currStreakLabel=34a853&sideLabels=4285f4&currStreakNum=fbbc04&sideNums=ea4335&background=0d1117" width="95%" alt="GitHub Streak Stats" />
+### 📊 Contribution Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -153,6 +156,7 @@ const abdulAzeem = {
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -212,28 +216,6 @@ const abdulAzeem = {
 </div>
 
 ---
-
-## 📚 LEARNING ROADMAP
-
-<div align="center">
-
-| Technology | Status | Priority |
-|------------|--------|----------|
-| Node.js & Express | ✅ Proficient | Core |
-| React & Redux Toolkit | ✅ Proficient | Core |
-| MongoDB | ✅ Proficient | Core |
-| TypeScript | ✅ Proficient | Core |
-| PostgreSQL | 🟨 Learning | High |
-| NestJS | 🟨 Learning | High |
-| Docker | 🟨 Learning | High |
-| Prisma ORM | 🟨 Learning | Medium |
-| Redis | ⬜ Planned | Medium |
-| AWS (EC2, S3, Lambda) | ⬜ Planned | High |
-| Kubernetes | ⬜ Planned | Medium |
-| Apache Kafka | ⬜ Planned | Medium |
-| GraphQL | ⬜ Planned | Low |
-
-</div>
 
 ## 🎯 CODING PROFILES
 
