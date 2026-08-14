@@ -105,8 +105,8 @@ const abdulAzeem = {
 
 <p align="center">
   <a href="https://github.com/AbdulAzeem-10">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=ea4335&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4285f4&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=ea4335&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4285f4&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
   </a>
 </p>
 
@@ -115,7 +115,7 @@ const abdulAzeem = {
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&custom_title=Contribution%20Activity&cache_seconds=1800" alt="Contribution Graph" />
 </p>
 
 ---
@@ -123,7 +123,7 @@ const abdulAzeem = {
 ## 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4&row=2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4&row=2&cache_seconds=1800" alt="GitHub Trophies" />
 </p>
 
 ---
