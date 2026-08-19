@@ -2,22 +2,22 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> ABDUL AZEEM <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="38" />
 
-<img src="./assets/animated-header.svg" alt="Animated Header" width="100%"/>
+<img src="https://raw.githubusercontent.com/AbdulAzeem-10/AbdulAzeem-10/main/assets/animated-header.svg" alt="Animated Header" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4285f4&center=true&vCenter=true&random=false&width=1200&height=120&lines=Backend-Focused+Full-Stack+Software+Engineer;Building+Scalable+APIs+and+Modern+React+Applications;Node.js+•+Express+•+NestJS+•+React+•+Redux+Toolkit+•+TypeScript;Specializing+in+System+Design+and+Backend+Architecture;Open+to+Backend+Engineering+Opportunities+and+Internships)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/snake.yaml">
-    <img src="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/snake.yaml/badge.svg" alt="Snake Animation" />
+  <a href="https://github.com/AbdulAzeem-10/AbdulAzeem-10/actions/workflows/snake.yaml">
+    <img src="https://github.com/AbdulAzeem-10/AbdulAzeem-10/actions/workflows/snake.yaml/badge.svg" alt="Snake Animation" />
   </a>
-  <a href="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/update-activity.yaml">
-    <img src="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/update-activity.yaml/badge.svg" alt="Update Activity" />
+  <a href="https://github.com/AbdulAzeem-10/AbdulAzeem-10/actions/workflows/update-activity.yaml">
+    <img src="https://github.com/AbdulAzeem-10/AbdulAzeem-10/actions/workflows/update-activity.yaml/badge.svg" alt="Update Activity" />
   </a>
-  <a href="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/metrics.yaml">
-    <img src="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/metrics.yaml/badge.svg" alt="Metrics" />
+  <a href="https://github.com/AbdulAzeem-10/AbdulAzeem-10/actions/workflows/metrics.yaml">
+    <img src="https://github.com/AbdulAzeem-10/AbdulAzeem-10/actions/workflows/metrics.yaml/badge.svg" alt="Metrics" />
   </a>
-  <a href="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/profile-3d.yaml">
-    <img src="https://github.com/AbdulAzeem-10/AbdulAzeem10-codearade/actions/workflows/profile-3d.yaml/badge.svg" alt="3D Profile" />
+  <a href="https://github.com/AbdulAzeem-10/AbdulAzeem-10/actions/workflows/profile-3d.yaml">
+    <img src="https://github.com/AbdulAzeem-10/AbdulAzeem-10/actions/workflows/profile-3d.yaml/badge.svg" alt="3D Profile" />
   </a>
 </p>
 
@@ -105,8 +105,8 @@ const abdulAzeem = {
 
 <p align="center">
   <a href="https://github.com/AbdulAzeem-10">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=ea4335&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4285f4&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulAzeem-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=ea4335&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeem-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4285f4&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
@@ -115,7 +115,7 @@ const abdulAzeem = {
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&custom_title=Contribution%20Activity&cache_seconds=1800" alt="Contribution Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeem-10&bg_color=0d1117&color=4285f4&line=ea4335&point=fbbc04&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </p>
 
 ---
@@ -123,7 +123,7 @@ const abdulAzeem = {
 ## 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4&row=2&cache_seconds=1800" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeem-10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4&row=2" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -256,11 +256,8 @@ const abdulAzeem = {
   <a href="https://github.com/AbdulAzeem-10">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-4285f4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Resume-ea4335?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+  <a href="https://leetcode.com/u/abdulazeem_10/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
@@ -276,9 +273,9 @@ const abdulAzeem = {
 ## 🐍 CONTRIBUTION GRAPH
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulAzeem-10/AbdulAzeem10-codearade/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulAzeem-10/AbdulAzeem10-codearade/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/AbdulAzeem-10/AbdulAzeem10-codearade/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulAzeem-10/AbdulAzeem-10/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulAzeem-10/AbdulAzeem-10/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/AbdulAzeem-10/AbdulAzeem-10/output/github-contribution-grid-snake.svg">
 </picture>
 
 <details>
@@ -286,7 +283,7 @@ const abdulAzeem = {
 <br>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/AbdulAzeem-10/AbdulAzeem-10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 </details>
